@@ -59,6 +59,29 @@ La propuesta económica para el bot comercial es:
 - Una tarifa única de instalación de $15.000 dólares, que incluye diseño, desarrollo, pruebas y puesta en marcha.  
 - Una tarifa mensual de mantenimiento de $3000 dólares, que cubre uso de API, actualizaciones y soporte.
 
+* Aquí le presento las tablas con los precios estipulados en la propuesta:
+
+**Bot de respuestas**
+
+| Concepto | Precio |
+|-|-|  
+| Configuración inicial | $5,000 USD |
+| Tarifa mensual de mantenimiento | $1,000 USD |
+
+**Bot de asistente de servicio al cliente**
+
+| Concepto | Precio |
+|-|-|
+| Configuración inicial | $10,000 USD |
+| Tarifa mensual de mantenimiento | $2,000 USD |
+
+**Bot comercial** 
+
+| Concepto | Precio |
+|-|-|
+| Configuración inicial | $15,000 USD |
+| Tarifa mensual de mantenimiento | $3,000 USD |
+
 Espero que esta propuesta y cotización sean claras y útiles. Si tiene alguna pregunta o comentario, por favor hágamelo saber. Estoy para servirle.
 
 Saludos cordiales,
